@@ -1,0 +1,1011 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "resName": "Punjabi Rasoi",
+      "cuisine": "North Indian, Punjabi, Asian",
+      "rating": "4.5",
+      "eta": "27 mins",
+      "image": "https://github.com/user-attachments/assets/90e817bc-65ab-48ed-9aab-afdada58cb38",
+      "menu": [
+      {
+        "id": 101,
+        "name": "Butter Chicken",
+        "price": 350,
+        "rating": 4.7,
+        "description": "Creamy tomato-based curry with tender chicken pieces, flavored with Indian spices.",
+        "image": "https://github.com/user-attachments/assets/2300e36f-5cc7-4bef-9d46-6180932ee7e6"
+      },
+      {
+        "id": 102,
+        "name": "Paneer Tikka",
+        "price": 280,
+        "rating": 4.5,
+        "description": "Char-grilled paneer cubes marinated with yogurt and spices.",
+        "image": "https://github.com/user-attachments/assets/4cfc1bc9-f6b0-4ae4-b087-05e5c59abfd0"
+      },
+      {
+        "id": 103,
+        "name": "Dal Makhani",
+        "price": 240,
+        "rating": 4.6,
+        "description": "Slow-cooked black lentils enriched with butter and cream.",
+        "image": "https://github.com/user-attachments/assets/3dc2d2b2-45d6-44e3-acec-de35b3e44d92"
+      },
+      {
+        "id": 104,
+        "name": "Tandoori Chicken",
+        "price": 320,
+        "rating": 4.8,
+        "description": "Marinated chicken grilled in a tandoor with authentic Punjabi spices.",
+        "image": "https://github.com/user-attachments/assets/2afbceac-d0db-4798-b919-a3f1eba6d6ca"
+      },
+      {
+        "id": 105,
+        "name": "Aaloo Paratha",
+        "price": 180,
+        "rating": 4.5,
+        "description": "Stuffed wheat flatbread with spiced mashed potatoes, served with butter and curd.",
+        "image": "https://github.com/user-attachments/assets/cb3256fb-9346-4cef-8659-51cba902027b"
+      },
+      {
+        "id": 106,
+        "name": "Lassi",
+        "price": 90,
+        "rating": 4.7,
+        "description": "Refreshing Punjabi yogurt-based drink, sweet or salted.",
+        "image": "https://github.com/user-attachments/assets/c9982557-8430-4955-a27c-0bd5eec2e12b"
+      }]
+    },
+    {
+      "id": 2,
+      "resName": "South Spice",
+      "cuisine": "South Indian, Chettinad",
+      "rating": "4.3",
+      "eta": "22 mins",
+      "image": "https://github.com/user-attachments/assets/b1bb3d7f-7355-451b-b811-72acdbfb5caa",
+      "menu": [
+      {
+        "id": 201,
+        "name": "Masala Dosa",
+        "price": 120,
+        "rating": 4.6,
+        "description": "Crispy dosa stuffed with spicy potato filling, served with chutney and sambar.",
+        "image": "https://github.com/user-attachments/assets/b1bb3d7f-7355-451b-b811-72acdbfb5caa"
+      },
+      {
+        "id": 202,
+        "name": "Chettinad Chicken",
+        "price": 320,
+        "rating": 4.7,
+        "description": "Spicy Chettinad-style chicken curry cooked with aromatic spices.",
+        "image": "https://github.com/user-attachments/assets/3dfd558a-d28a-4ffe-82f6-86285c660916"
+      },
+      {
+        "id": 203,
+        "name": "Idli Sambar",
+        "price": 90,
+        "rating": 4.8,
+        "description": "Steamed rice cakes served with flavorful lentil sambar and coconut chutney.",
+        "image": "https://github.com/user-attachments/assets/c0ee05aa-00dd-4665-a55f-a2342fc8b491"
+      },
+      {
+        "id": 204,
+        "name": "Medu Vada",
+        "price": 100,
+        "rating": 4.6,
+        "description": "Crispy lentil doughnuts served with chutney and sambar.",
+        "image": "https://github.com/user-attachments/assets/24c9b2b3-b893-46c2-a54b-93a969f93344"
+      },
+      {
+        "id": 205,
+        "name": "Filter Coffee",
+        "price": 60,
+        "rating": 4.9,
+        "description": "Authentic South Indian strong filter coffee served with milk and sugar.",
+        "image": "https://github.com/user-attachments/assets/69073171-5fe7-4c53-ab7d-633a942373a7"
+      }
+    ]
+    },
+    {
+      "id": 3,
+      "resName": "Burger Hub",
+      "cuisine": "American, Fast Food",
+      "rating": "4.7",
+      "eta": "18 mins",
+      "image": "https://github.com/user-attachments/assets/b732eb64-eb6e-444c-ad0c-e904c5bafb71",
+      "menu": [
+      {
+        "id": 301,
+        "name": "Cheese Burger",
+        "price": 250,
+        "rating": 4.5,
+        "description": "Juicy chicken patty with melted cheese, lettuce, and tomato in a toasted bun.",
+        "image": "https://github.com/user-attachments/assets/b732eb64-eb6e-444c-ad0c-e904c5bafb71"
+      },
+      {
+        "id": 302,
+        "name": "French Fries",
+        "price": 120,
+        "rating": 4.2,
+        "description": "Crispy golden fries served with ketchup and mayo.",
+        "image": "https://github.com/user-attachments/assets/eaabbf1f-c4d6-43bc-907e-595cc882bee6"
+      },
+      {
+        "id": 303,
+        "name": "Chicken Nuggets",
+        "price": 180,
+        "rating": 4.4,
+        "description": "Crispy and tender bite-sized chicken nuggets served with honey mustard dip.",
+        "image": "https://github.com/user-attachments/assets/6787ef4a-a88b-49ce-ade3-16d59c4d3cc5"
+      },
+      {
+        "id": 304,
+        "name": "Veg Wrap",
+        "price": 200,
+        "rating": 4.3,
+        "description": "Whole wheat wrap filled with fresh veggies, hummus, and dressing.",
+        "image": "https://github.com/user-attachments/assets/d1e7ee43-5d53-4468-aff1-f3c6e5a48655"
+      },
+      {
+        "id": 305,
+        "name": "Chocolate Shake",
+        "price": 150,
+        "rating": 4.7,
+        "description": "Thick and creamy chocolate milkshake topped with whipped cream.",
+        "image": "https://github.com/user-attachments/assets/e33cb8a1-8055-4d68-9cc0-d2a0e52a293f"
+      }
+    ]
+    },
+    {
+      "id": 4,
+      "resName": "Pasta Palace",
+      "cuisine": "Italian, Continental",
+      "rating": "4.4",
+      "eta": "20 mins",
+      "image": "https://github.com/user-attachments/assets/e7ba308f-a05a-4be7-a69d-f5a54cd7a113",
+      "menu": [
+      {
+        "id": 401,
+        "name": "Penne Alfredo",
+        "price": 280,
+        "rating": 4.6,
+        "description": "Rich and creamy Alfredo sauce tossed with penne pasta and parmesan cheese.",
+        "image": "/images/menu/penne-alfredo.jpg"
+      },
+      {
+        "id": 402,
+        "name": "Spaghetti Carbonara",
+        "price": 320,
+        "rating": 4.7,
+        "description": "Classic Italian pasta with pancetta, egg, and parmesan cheese.",
+        "image": "/images/menu/spaghetti-carbonara.jpg"
+      },
+      {
+        "id": 403,
+        "name": "Margherita Pizza",
+        "price": 300,
+        "rating": 4.5,
+        "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella, and basil.",
+        "image": "/images/menu/margherita-pizza.jpg"
+      },
+      {
+        "id": 404,
+        "name": "Garlic Bread",
+        "price": 150,
+        "rating": 4.8,
+        "description": "Crispy garlic bread topped with butter and herbs, served with marinara sauce.",
+        "image": "/images/menu/garlic-bread.jpg"
+      },
+      {
+        "id": 405,
+        "name": "Tiramisu",
+        "price": 250,
+        "rating": 4.9,
+        "description": "Classic Italian dessert with layers of mascarpone, espresso, and cocoa.",
+        "image": "/images/menu/tiramisu.jpg"
+      }
+    ]
+    },
+    {
+      "id": 5,
+      "resName": "Sushi House",
+      "cuisine": "Japanese, Sushi, Asian",
+      "rating": "4.8",
+      "eta": "25 mins",
+      "image": "https://github.com/user-attachments/assets/2c764faa-a415-46a8-9968-41158ebeb423",
+      "menu": [
+      {
+        "id": 501,
+        "name": "Salmon Sushi",
+        "price": 350,
+        "rating": 4.7,
+        "description": "Fresh salmon slices over seasoned rice, served with soy sauce and wasabi.",
+        "image": "/images/menu/salmon-sushi.jpg"
+      },
+      {
+        "id": 502,
+        "name": "Tuna Roll",
+        "price": 320,
+        "rating": 4.6,
+        "description": "Fresh tuna wrapped in seaweed and sushi rice, served with ginger and wasabi.",
+        "image": "/images/menu/tuna-roll.jpg"
+      },
+      {
+        "id": 503,
+        "name": "Tempura Prawns",
+        "price": 280,
+        "rating": 4.7,
+        "description": "Crispy battered prawns served with a sweet soy dipping sauce.",
+        "image": "/images/menu/tempura-prawns.jpg"
+      },
+      {
+        "id": 504,
+        "name": "Miso Soup",
+        "price": 120,
+        "rating": 4.5,
+        "description": "Traditional Japanese soup made with miso paste, tofu, and seaweed.",
+        "image": "/images/menu/miso-soup.jpg"
+      },
+      {
+        "id": 505,
+        "name": "Matcha Ice Cream",
+        "price": 180,
+        "rating": 4.9,
+        "description": "Refreshing green tea-flavored ice cream, a perfect dessert.",
+        "image": "/images/menu/matcha-ice-cream.jpg"
+      }
+    ]
+    },
+    {
+      "id": 6,
+      "resName": "Tandoori Tales",
+      "cuisine": "North Indian, Mughlai",
+      "rating": "4.5",
+      "eta": "30 mins",
+      "image": "https://github.com/user-attachments/assets/41a6be04-8532-45db-8813-9d9f82f67a8a",
+      "menu": [
+      {
+        "id": 601,
+        "name": "Tandoori Chicken",
+        "price": 350,
+        "rating": 4.8,
+        "description": "Marinated chicken grilled in a tandoor with authentic Indian spices.",
+        "image": "/images/menu/tandoori-chicken.jpg"
+      },
+      {
+        "id": 602,
+        "name": "Chicken Seekh Kebab",
+        "price": 320,
+        "rating": 4.6,
+        "description": "Juicy minced chicken kebabs grilled with aromatic spices, served with chutney.",
+        "image": "/images/menu/chicken-seekh-kebab.jpg"
+      },
+      {
+        "id": 603,
+        "name": "Mutton Rogan Josh",
+        "price": 400,
+        "rating": 4.7,
+        "description": "Kashmiri-style slow-cooked mutton curry with flavorful spices.",
+        "image": "/images/menu/mutton-rogan-josh.jpg"
+      },
+      {
+        "id": 604,
+        "name": "Tandoori Roti",
+        "price": 50,
+        "rating": 4.5,
+        "description": "Whole wheat flatbread cooked in a tandoor, best served with curries.",
+        "image": "/images/menu/tandoori-roti.jpg"
+      },
+      {
+        "id": 605,
+        "name": "Shahi Tukda",
+        "price": 180,
+        "rating": 4.8,
+        "description": "Rich Mughlai dessert made with fried bread soaked in saffron-infused milk and garnished with nuts.",
+        "image": "/images/menu/shahi-tukda.jpg"
+      }
+    ]
+    },
+    {
+      "id": 7,
+      "resName": "The Mexican Bowl",
+      "cuisine": "Mexican, Tex-Mex",
+      "rating": "4.2",
+      "eta": "24 mins",
+      "image": "https://github.com/user-attachments/assets/4baa2c89-88f3-422f-aa10-8bfc3016e3d0",
+      "menu": [
+      {
+        "id": 701,
+        "name": "Tacos Al Pastor",
+        "price": 250,
+        "rating": 4.5,
+        "description": "Traditional Mexican tacos filled with marinated pork, pineapple, and fresh cilantro.",
+        "image": "/images/menu/tacos-al-pastor.jpg"
+      },
+      {
+        "id": 702,
+        "name": "Nachos Supreme",
+        "price": 280,
+        "rating": 4.4,
+        "description": "Crispy nachos loaded with cheese, salsa, guacamole, sour cream, and jalapenos.",
+        "image": "/images/menu/nachos-supreme.jpg"
+      },
+      {
+        "id": 703,
+        "name": "Chicken Quesadilla",
+        "price": 320,
+        "rating": 4.6,
+        "description": "Grilled tortilla filled with melted cheese, spicy chicken, and bell peppers.",
+        "image": "/images/menu/chicken-quesadilla.jpg"
+      },
+      {
+        "id": 704,
+        "name": "Burrito Bowl",
+        "price": 350,
+        "rating": 4.7,
+        "description": "A bowl of rice, beans, grilled chicken, salsa, cheese, and sour cream.",
+        "image": "/images/menu/burrito-bowl.jpg"
+      },
+      {
+        "id": 705,
+        "name": "Churros",
+        "price": 180,
+        "rating": 4.8,
+        "description": "Crispy fried dough coated in cinnamon sugar, served with chocolate dip.",
+        "image": "/images/menu/churros.jpg"
+      }
+    ]
+    },
+    {
+      "id": 8,
+      "resName": "Delhi Chaat Bazaar",
+      "cuisine": "Street Food, North Indian",
+      "rating": "4.0",
+      "eta": "15 mins",
+      "image": "https://github.com/user-attachments/assets/11864fc6-72d3-4952-a794-daef161e7a92",
+      "menu": [
+      {
+        "id": 801,
+        "name": "Gol Gappa (Pani Puri)",
+        "price": 80,
+        "rating": 4.6,
+        "description": "Crispy hollow puris filled with spicy tangy water and mashed potatoes.",
+        "image": "/images/menu/pani-puri.jpg"
+      },
+      {
+        "id": 802,
+        "name": "Aloo Tikki Chaat",
+        "price": 120,
+        "rating": 4.5,
+        "description": "Crispy aloo tikkis topped with chutneys, curd, and sev.",
+        "image": "/images/menu/aloo-tikki-chaat.jpg"
+      },
+      {
+        "id": 803,
+        "name": "Dahi Puri",
+        "price": 100,
+        "rating": 4.4,
+        "description": "Crispy puris stuffed with curd, tamarind chutney, and fresh coriander.",
+        "image": "/images/menu/dahi-puri.jpg"
+      },
+      {
+        "id": 804,
+        "name": "Samosa Chaat",
+        "price": 150,
+        "rating": 4.5,
+        "description": "Crushed samosas topped with spicy chole, onions, and chutneys.",
+        "image": "/images/menu/samosa-chaat.jpg"
+      },
+      {
+        "id": 805,
+        "name": "Raj Kachori",
+        "price": 180,
+        "rating": 4.7,
+        "description": "A large stuffed kachori filled with potatoes, sprouts, chutneys, and curd.",
+        "image": "/images/menu/raj-kachori.jpg"
+      }
+    ]
+    },
+    {
+      "id": 9,
+      "resName": "Momos Junction",
+      "cuisine": "Chinese, Tibetan",
+      "rating": "4.1",
+      "eta": "19 mins",
+      "image": "https://github.com/user-attachments/assets/297cc54f-8873-469d-9d73-7fd252fa8e68",
+      "menu": [
+      {
+        "id": 901,
+        "name": "Steamed Chicken Momos",
+        "price": 200,
+        "rating": 4.6,
+        "description": "Soft and juicy dumplings stuffed with spiced chicken mince, served with chili sauce.",
+        "image": "/images/menu/steamed-chicken-momos.jpg"
+      },
+      {
+        "id": 902,
+        "name": "Fried Veg Momos",
+        "price": 220,
+        "rating": 4.5,
+        "description": "Crispy deep-fried vegetable momos served with tangy tomato sauce.",
+        "image": "/images/menu/fried-veg-momos.jpg"
+      },
+      {
+        "id": 903,
+        "name": "Tandoori Momos",
+        "price": 250,
+        "rating": 4.7,
+        "description": "Momos grilled in tandoor with a smoky flavor, served with spicy mayo.",
+        "image": "/images/menu/tandoori-momos.jpg"
+      },
+      {
+        "id": 904,
+        "name": "Chilli Garlic Momos",
+        "price": 230,
+        "rating": 4.4,
+        "description": "Stir-fried momos tossed in a spicy garlic sauce.",
+        "image": "/images/menu/chilli-garlic-momos.jpg"
+      },
+      {
+        "id": 905,
+        "name": "Chocolate Momos",
+        "price": 180,
+        "rating": 4.6,
+        "description": "Sweet momos stuffed with molten chocolate, served with ice cream.",
+        "image": "/images/menu/chocolate-momos.jpg"
+      }
+    ]
+    },
+    {
+      "id": 10,
+      "resName": "Pizza Paradise",
+      "cuisine": "Italian, Fast Food",
+      "rating": "4.6",
+      "eta": "28 mins",
+      "image": "https://github.com/user-attachments/assets/f0862710-37d1-4e43-8eb0-15ae70921d21",
+      "menu": [
+      {
+        "id": 1001,
+        "name": "Margherita Pizza",
+        "price": 350,
+        "rating": 4.7,
+        "description": "Classic Italian pizza with fresh mozzarella, basil, and tomato sauce.",
+        "image": "/images/menu/margherita-pizza.jpg"
+      },
+      {
+        "id": 1002,
+        "name": "Pepperoni Pizza",
+        "price": 400,
+        "rating": 4.8,
+        "description": "Thin crust pizza topped with spicy pepperoni and extra cheese.",
+        "image": "/images/menu/pepperoni-pizza.jpg"
+      },
+      {
+        "id": 1003,
+        "name": "BBQ Chicken Pizza",
+        "price": 420,
+        "rating": 4.6,
+        "description": "Grilled chicken, barbecue sauce, and mozzarella on a crispy crust.",
+        "image": "/images/menu/bbq-chicken-pizza.jpg"
+      },
+      {
+        "id": 1004,
+        "name": "Veggie Supreme",
+        "price": 380,
+        "rating": 4.5,
+        "description": "Loaded with bell peppers, onions, olives, mushrooms, and mozzarella.",
+        "image": "/images/menu/veggie-supreme.jpg"
+      },
+      {
+        "id": 1005,
+        "name": "Garlic Breadsticks",
+        "price": 150,
+        "rating": 4.7,
+        "description": "Crispy breadsticks with garlic butter and herbs, served with marinara sauce.",
+        "image": "/images/menu/garlic-breadsticks.jpg"
+      }
+    ]
+    },
+    {
+      "id": 11,
+      "resName": "Grill House",
+      "cuisine": "Barbecue, Grill",
+      "rating": "4.4",
+      "eta": "26 mins",
+      "image": "https://github.com/user-attachments/assets/e19e9994-c5cc-4ec3-845d-94a4f0ce593e",
+      "menu": [
+      {
+        "id": 1101,
+        "name": "BBQ Ribs",
+        "price": 450,
+        "rating": 4.8,
+        "description": "Tender slow-cooked ribs coated in smoky barbecue sauce.",
+        "image": "/images/menu/bbq-ribs.jpg"
+      },
+      {
+        "id": 1102,
+        "name": "Grilled Chicken Steak",
+        "price": 380,
+        "rating": 4.6,
+        "description": "Juicy grilled chicken breast served with mashed potatoes and veggies.",
+        "image": "/images/menu/grilled-chicken-steak.jpg"
+      },
+      {
+        "id": 1103,
+        "name": "Spicy Lamb Chops",
+        "price": 420,
+        "rating": 4.7,
+        "description": "Marinated lamb chops grilled to perfection, served with a side salad.",
+        "image": "/images/menu/spicy-lamb-chops.jpg"
+      },
+      {
+        "id": 1104,
+        "name": "Grilled Salmon",
+        "price": 460,
+        "rating": 4.9,
+        "description": "Fresh salmon fillet grilled with lemon butter sauce.",
+        "image": "/images/menu/grilled-salmon.jpg"
+      },
+      {
+        "id": 1105,
+        "name": "Corn on the Cob",
+        "price": 120,
+        "rating": 4.5,
+        "description": "Chargrilled corn seasoned with butter, salt, and pepper.",
+        "image": "/images/menu/corn-on-the-cob.jpg"
+      }
+    ]
+    },
+    {
+      "id": 12,
+      "resName": "Biryani Point",
+      "cuisine": "North Indian, Biryani",
+      "rating": "4.7",
+      "eta": "23 mins",
+      "image": "https://github.com/user-attachments/assets/3a2d65e3-2cb1-47ac-b214-6dc5d19e6e91",
+      "menu": [
+      {
+        "id": 1201,
+        "name": "Hyderabadi Chicken Biryani",
+        "price": 350,
+        "rating": 4.9,
+        "description": "Traditional dum-cooked biryani with fragrant basmati rice and tender chicken.",
+        "image": "/images/menu/hyderabadi-chicken-biryani.jpg"
+      },
+      {
+        "id": 1202,
+        "name": "Mutton Biryani",
+        "price": 400,
+        "rating": 4.8,
+        "description": "Slow-cooked mutton biryani with saffron-infused basmati rice.",
+        "image": "/images/menu/mutton-biryani.jpg"
+      },
+      {
+        "id": 1203,
+        "name": "Veg Biryani",
+        "price": 300,
+        "rating": 4.5,
+        "description": "Aromatic biryani with mixed vegetables, served with raita.",
+        "image": "/images/menu/veg-biryani.jpg"
+      },
+      {
+        "id": 1204,
+        "name": "Egg Biryani",
+        "price": 320,
+        "rating": 4.6,
+        "description": "Flavorful egg biryani with rich masalas and fluffy basmati rice.",
+        "image": "/images/menu/egg-biryani.jpg"
+      },
+      {
+        "id": 1205,
+        "name": "Mirchi Ka Salan",
+        "price": 180,
+        "rating": 4.7,
+        "description": "A spicy and tangy curry made with green chilies, served with biryani.",
+        "image": "/images/menu/mirchi-ka-salan.jpg"
+      }
+    ]
+    },
+    {
+      "id": 13,
+      "resName": "Thai Express",
+      "cuisine": "Thai, Asian",
+      "rating": "4.5",
+      "eta": "21 mins",
+      "image": "https://github.com/user-attachments/assets/0fe61b92-f9b7-47a0-9295-dc31b4d3d891",
+      "menu": [
+      {
+        "id": 1301,
+        "name": "Pad Thai",
+        "price": 320,
+        "rating": 4.7,
+        "description": "Stir-fried rice noodles with tofu, shrimp, eggs, peanuts, and tamarind sauce.",
+        "image": "/images/menu/pad-thai.jpg"
+      },
+      {
+        "id": 1302,
+        "name": "Green Curry",
+        "price": 350,
+        "rating": 4.6,
+        "description": "Spicy and creamy green curry with coconut milk, Thai herbs, and chicken.",
+        "image": "/images/menu/green-curry.jpg"
+      },
+      {
+        "id": 1303,
+        "name": "Tom Yum Soup",
+        "price": 280,
+        "rating": 4.5,
+        "description": "Hot and sour Thai soup with shrimp, mushrooms, lemongrass, and lime.",
+        "image": "/images/menu/tom-yum-soup.jpg"
+      },
+      {
+        "id": 1304,
+        "name": "Thai Basil Chicken",
+        "price": 340,
+        "rating": 4.7,
+        "description": "Spicy stir-fried chicken with Thai basil, garlic, and chili sauce.",
+        "image": "/images/menu/thai-basil-chicken.jpg"
+      },
+      {
+        "id": 1305,
+        "name": "Mango Sticky Rice",
+        "price": 240,
+        "rating": 4.8,
+        "description": "Sweet coconut-flavored sticky rice served with fresh mango slices.",
+        "image": "/images/menu/mango-sticky-rice.jpg"
+      }
+    ]
+    },
+    {
+      "id": 14,
+      "resName": "Chinese Wok",
+      "cuisine": "Chinese, Asian",
+      "rating": "4.3",
+      "eta": "20 mins",
+      "image": "https://github.com/user-attachments/assets/8d8a9e17-d77e-4886-8e20-4ee70d5b71b9",
+      "menu": [
+      {
+        "id": 1401,
+        "name": "Kung Pao Chicken",
+        "price": 330,
+        "rating": 4.6,
+        "description": "Spicy stir-fried chicken with peanuts, bell peppers, and Sichuan sauce.",
+        "image": "/images/menu/kung-pao-chicken.jpg"
+      },
+      {
+        "id": 1402,
+        "name": "Spring Rolls",
+        "price": 180,
+        "rating": 4.5,
+        "description": "Crispy spring rolls filled with cabbage, carrots, and glass noodles.",
+        "image": "/images/menu/spring-rolls.jpg"
+      },
+      {
+        "id": 1403,
+        "name": "Hakka Noodles",
+        "price": 290,
+        "rating": 4.4,
+        "description": "Stir-fried noodles with vegetables, soy sauce, and garlic.",
+        "image": "/images/menu/hakka-noodles.jpg"
+      },
+      {
+        "id": 1404,
+        "name": "Sweet and Sour Pork",
+        "price": 350,
+        "rating": 4.7,
+        "description": "Crispy pork tossed in sweet and tangy sauce with pineapple and bell peppers.",
+        "image": "/images/menu/sweet-sour-pork.jpg"
+      },
+      {
+        "id": 1405,
+        "name": "Dim Sum Platter",
+        "price": 400,
+        "rating": 4.8,
+        "description": "Assorted dumplings including shrimp, chicken, and vegetable dim sums.",
+        "image": "/images/menu/dim-sum-platter.jpg"
+      }
+    ]
+    },
+    {
+      "id": 15,
+      "resName": "Café Delight",
+      "cuisine": "Cafe, Desserts, Coffee",
+      "rating": "4.2",
+      "eta": "16 mins",
+      "image": "https://github.com/user-attachments/assets/550fb9dd-db99-4dcb-9373-b0e09dc0270b",
+      "menu": [
+      {
+        "id": 1501,
+        "name": "Cappuccino",
+        "price": 180,
+        "rating": 4.7,
+        "description": "Rich and frothy espresso with steamed milk and foam.",
+        "image": "/images/menu/cappuccino.jpg"
+      },
+      {
+        "id": 1502,
+        "name": "Chocolate Brownie",
+        "price": 220,
+        "rating": 4.6,
+        "description": "Fudgy chocolate brownie topped with walnuts and served with ice cream.",
+        "image": "/images/menu/chocolate-brownie.jpg"
+      },
+      {
+        "id": 1503,
+        "name": "Blueberry Cheesecake",
+        "price": 250,
+        "rating": 4.8,
+        "description": "Creamy cheesecake topped with fresh blueberry compote.",
+        "image": "/images/menu/blueberry-cheesecake.jpg"
+      },
+      {
+        "id": 1504,
+        "name": "Iced Mocha",
+        "price": 200,
+        "rating": 4.5,
+        "description": "Refreshing iced coffee blended with chocolate syrup and cream.",
+        "image": "/images/menu/iced-mocha.jpg"
+      },
+      {
+        "id": 1505,
+        "name": "Pancakes with Maple Syrup",
+        "price": 280,
+        "rating": 4.7,
+        "description": "Fluffy pancakes served with butter and pure maple syrup.",
+        "image": "/images/menu/pancakes-maple-syrup.jpg"
+      }
+    ]
+    },
+    {
+      "id": 16,
+      "resName": "Kebab King",
+      "cuisine": "Mughlai, North Indian",
+      "rating": "4.6",
+      "eta": "25 mins",
+      "image": "https://github.com/user-attachments/assets/07870b5d-8f06-4517-9a6b-7934f6d3e2bb",
+      "menu": [
+      {
+        "id": 1601,
+        "name": "Chicken Seekh Kebab",
+        "price": 320,
+        "rating": 4.7,
+        "description": "Juicy minced chicken skewers grilled with Indian spices, served with mint chutney.",
+        "image": "/images/menu/chicken-seekh-kebab.jpg"
+      },
+      {
+        "id": 1602,
+        "name": "Mutton Rogan Josh",
+        "price": 400,
+        "rating": 4.8,
+        "description": "Slow-cooked mutton curry with Kashmiri spices, served with naan.",
+        "image": "/images/menu/mutton-rogan-josh.jpg"
+      },
+      {
+        "id": 1603,
+        "name": "Chicken Tikka",
+        "price": 280,
+        "rating": 4.6,
+        "description": "Boneless chicken marinated in yogurt and spices, grilled to perfection.",
+        "image": "/images/menu/chicken-tikka.jpg"
+      },
+      {
+        "id": 1604,
+        "name": "Shami Kebab",
+        "price": 350,
+        "rating": 4.7,
+        "description": "Minced mutton and lentil patties, spiced and shallow-fried.",
+        "image": "/images/menu/shami-kebab.jpg"
+      },
+      {
+        "id": 1605,
+        "name": "Tandoori Roti",
+        "price": 50,
+        "rating": 4.5,
+        "description": "Whole wheat flatbread cooked in a tandoor, perfect with Mughlai curries.",
+        "image": "/images/menu/tandoori-roti.jpg"
+      }
+    ]
+    },
+    {
+      "id": 17,
+      "resName": "Greek Feast",
+      "cuisine": "Greek, Mediterranean",
+      "rating": "4.4",
+      "eta": "29 mins",
+      "image": "https://github.com/user-attachments/assets/7ffabbed-4657-470e-a7d0-7d3d253cfd0e",
+      "menu": [
+      {
+        "id": 1701,
+        "name": "Greek Gyro Wrap",
+        "price": 320,
+        "rating": 4.7,
+        "description": "Greek pita wrap filled with grilled lamb, tzatziki sauce, onions, and tomatoes.",
+        "image": "/images/menu/gyro-wrap.jpg"
+      },
+      {
+        "id": 1702,
+        "name": "Moussaka",
+        "price": 400,
+        "rating": 4.8,
+        "description": "Classic Greek baked dish with layers of eggplant, minced meat, and béchamel sauce.",
+        "image": "/images/menu/moussaka.jpg"
+      },
+      {
+        "id": 1703,
+        "name": "Spanakopita",
+        "price": 280,
+        "rating": 4.6,
+        "description": "Greek pastry stuffed with spinach and feta cheese.",
+        "image": "/images/menu/spanakopita.jpg"
+      },
+      {
+        "id": 1704,
+        "name": "Greek Salad",
+        "price": 250,
+        "rating": 4.7,
+        "description": "Fresh salad with feta cheese, olives, cucumbers, and olive oil dressing.",
+        "image": "/images/menu/greek-salad.jpg"
+      },
+      {
+        "id": 1705,
+        "name": "Baklava",
+        "price": 180,
+        "rating": 4.9,
+        "description": "Sweet Greek dessert made of layered phyllo pastry filled with nuts and honey.",
+        "image": "/images/menu/baklava.jpg"
+      }
+    ]
+    },
+    {
+      "id": 18,
+      "resName": "Middle Eastern Bites",
+      "cuisine": "Middle Eastern, Lebanese",
+      "rating": "4.5",
+      "eta": "27 mins",
+      "image": "https://github.com/user-attachments/assets/2540e0ab-14c5-4a17-a987-a58f30b26456",
+      "menu": [
+      {
+        "id": 1801,
+        "name": "Shawarma Wrap",
+        "price": 280,
+        "rating": 4.7,
+        "description": "Thinly sliced marinated chicken wrapped in pita bread with garlic sauce.",
+        "image": "/images/menu/shawarma-wrap.jpg"
+      },
+      {
+        "id": 1802,
+        "name": "Falafel",
+        "price": 220,
+        "rating": 4.6,
+        "description": "Crispy deep-fried chickpea patties served with hummus and tahini sauce.",
+        "image": "/images/menu/falafel.jpg"
+      },
+      {
+        "id": 1803,
+        "name": "Hummus with Pita",
+        "price": 250,
+        "rating": 4.8,
+        "description": "Creamy chickpea dip served with warm pita bread.",
+        "image": "/images/menu/hummus-pita.jpg"
+      },
+      {
+        "id": 1804,
+        "name": "Kebab Platter",
+        "price": 450,
+        "rating": 4.9,
+        "description": "A mix of lamb, chicken, and beef kebabs served with grilled veggies and rice.",
+        "image": "/images/menu/kebab-platter.jpg"
+      },
+      {
+        "id": 1805,
+        "name": "Baklava",
+        "price": 200,
+        "rating": 4.7,
+        "description": "Sweet layered pastry filled with honey and nuts.",
+        "image": "/images/menu/baklava.jpg"
+      }
+    ]
+    },
+    {
+      "id": 19,
+      "resName": "Vegan Delights",
+      "cuisine": "Vegan, Healthy Food",
+      "rating": "4.8",
+      "eta": "22 mins",
+      "image": "https://github.com/user-attachments/assets/56eb7718-024b-44cc-b8cf-3ea4cfda649c",
+      "menu": [
+      {
+        "id": 1901,
+        "name": "Vegan Buddha Bowl",
+        "price": 320,
+        "rating": 4.9,
+        "description": "A wholesome bowl with quinoa, chickpeas, roasted veggies, avocado, and tahini dressing.",
+        "image": "/images/menu/vegan-buddha-bowl.jpg"
+      },
+      {
+        "id": 1902,
+        "name": "Vegan Burger",
+        "price": 280,
+        "rating": 4.7,
+        "description": "A plant-based burger with a lentil patty, lettuce, tomato, and vegan aioli.",
+        "image": "/images/menu/vegan-burger.jpg"
+      },
+      {
+        "id": 1903,
+        "name": "Tofu Stir Fry",
+        "price": 350,
+        "rating": 4.8,
+        "description": "Crispy tofu stir-fried with bell peppers, soy sauce, and sesame seeds.",
+        "image": "/images/menu/tofu-stir-fry.jpg"
+      },
+      {
+        "id": 1904,
+        "name": "Avocado Toast",
+        "price": 260,
+        "rating": 4.7,
+        "description": "Whole grain toast topped with smashed avocado, cherry tomatoes, and chili flakes.",
+        "image": "/images/menu/avocado-toast.jpg"
+      },
+      {
+        "id": 1905,
+        "name": "Vegan Smoothie Bowl",
+        "price": 300,
+        "rating": 4.9,
+        "description": "A blend of berries, banana, and almond milk topped with granola and nuts.",
+        "image": "/images/menu/vegan-smoothie-bowl.jpg"
+      }
+    ]
+    },
+    {
+      "id": 20,
+      "resName": "Seafood Haven",
+      "cuisine": "Seafood, Coastal",
+      "rating": "4.6",
+      "eta": "30 mins",
+      "image": "https://github.com/user-attachments/assets/3bd123a4-4a2f-439a-a7be-f0595a32a054",
+      "menu": [
+      {
+        "id": 2001,
+        "name": "Grilled Salmon",
+        "price": 450,
+        "rating": 4.8,
+        "description": "Fresh salmon fillet grilled with lemon butter sauce and herbs.",
+        "image": "/images/menu/grilled-salmon.jpg"
+      },
+      {
+        "id": 2002,
+        "name": "Prawn Curry",
+        "price": 400,
+        "rating": 4.7,
+        "description": "Juicy prawns cooked in a coconut-based curry with Indian spices.",
+        "image": "/images/menu/prawn-curry.jpg"
+      },
+      {
+        "id": 2003,
+        "name": "Lobster Thermidor",
+        "price": 600,
+        "rating": 4.9,
+        "description": "Creamy and cheesy baked lobster dish with a hint of garlic and lemon.",
+        "image": "/images/menu/lobster-thermidor.jpg"
+      },
+      {
+        "id": 2004,
+        "name": "Fish and Chips",
+        "price": 350,
+        "rating": 4.6,
+        "description": "Crispy battered fish served with golden fries and tartar sauce.",
+        "image": "/images/menu/fish-and-chips.jpg"
+      },
+      {
+        "id": 2005,
+        "name": "Crab Masala",
+        "price": 480,
+        "rating": 4.8,
+        "description": "Spicy and flavorful crab cooked with Indian masala and coastal spices.",
+        "image": "/images/menu/crab-masala.jpg"
+      }
+    ]
+    }
+  ]
+}
